@@ -32,5 +32,6 @@ ITI MOT Project: A Multi Parking system controlled by phone sensor
 
 ## Running Page of Map Parking for End User
 <img src="https://i.postimg.cc/tT9PGr99/new.png" width="772" height="427" alt="map">
+
 ## Demo Video
 [▶️ Watch the demo video on Google Drive](https://drive.google.com/drive/folders/13HKWQI5_DA-VYX6Ph009YtTK1pN1vw0U?usp=drive_link)
